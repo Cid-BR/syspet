@@ -6,3 +6,6 @@ django-test-without-migrations==0.4
 python-decouple==3.0
 six==1.10.0
 static3==0.7.0
+django-jet==1.0.4
+google-api-python-client==1.4.1
+django-debug-toolbar
