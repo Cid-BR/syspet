@@ -1,0 +1,1 @@
+web: gunicorn syspet.wsgi --log-file -
